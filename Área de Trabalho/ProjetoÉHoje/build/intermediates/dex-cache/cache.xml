@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c1a5f71d2dc4c6d57d07950a6a5a2c7ff4abe9db">
+        <dex dex="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_00a469a0e0b6dc17a2bdf2fd06f6f79f561860e7/classes.dex" />
+    </item>
+    <item
+        jar="/home/thais/Área de Trabalho/android-studio/gradle/m2repository/com/android/tools/build/gradle/2.1.0/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.1/d081ad6f7c51627ebe2dbf157cc525cbf5e9c821/parceler-api-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d081ad6f7c51627ebe2dbf157cc525cbf5e9c821">
+        <dex dex="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/transforms/dex/debug/folders/1000/10/parceler-api-1.1.1_012970c337b1a9e9c367ba499a087514edb6d24f/classes.dex" />
+    </item>
+    <item
+        jar="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_f960964c60fac678d9f8fbfb2387bbe2930619ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_9a79d662c31ff209c8d8f7ac7c6512045aad3843/classes.dex" />
+    </item>
+    <item
+        jar="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90b26078261bd98aab7c6ea51822ca64923338ff">
+        <dex dex="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_394d8a972ce126d28f39efb25cb5f4e11b9c4c25/classes.dex" />
+    </item>
+    <item
+        jar="/home/thais/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_96b948e121a677773747e49c5a8693e7d09f23f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/thais/Área de Trabalho/ProjetoÉHoje/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_bcd6137377106fd13c016e6f8dc5b7b00b146ec2/classes.dex" />
+    </item>
+
+</items>
